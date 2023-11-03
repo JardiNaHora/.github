@@ -6,8 +6,8 @@ O Sistema de Monitoramento da Jardineira é um projeto desenvolvido para o Insti
 
 Este projeto visa solucionar esse problema, fornecendo um sistema completo composto por três partes principais: o front-end, o back-end e o banco de dados. Além disso, será implementado um sistema embarcado no veículo, composto por um ESP32, um sensor acelerômetro e giroscópio, e um módulo GPS, para coletar e enviar informações sobre a localização e status do veículo para o sistema.
 
-<details open>
-  <summary><h2>Componentes do Sistema</h2></summary>
+<details>
+  <summary><strong>Componentes do Sistema</strong></summary>
 
   ### [Front-end](https://github.com/JardiNaHora/frontend)
 
@@ -31,10 +31,11 @@ Este projeto visa solucionar esse problema, fornecendo um sistema completo compo
 
 </details>
 
-<details open>
+<details>
   
-  <summary><h2>Objetivos do Projeto</h2></summary>
-
+  <summary><strong>Objetivos do Projeto</strong></summary>
+  <br>
+  
   - Fornecer um rastreamento em tempo real da "Jardineira" para os usuários do campus Maracanaú do IFCE.
   - Reduzir atrasos e desperdício de tempo ao informar os usuários sobre o horário de chegada estimado.
   - Facilitar o controle da manutenção, segurança e eficiência do veículo por parte da administração do campus.
