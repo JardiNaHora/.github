@@ -35,19 +35,3 @@
 | RNF04 | O sistema deve ser fácil de usar, oferecendo uma interface intuitiva e amigável aos usuários. | - |
 | RNF05 | O sistema deve ser escalável, podendo suportar um aumento na demanda de usuários, dados e funcionalidades. | Implementação de uma arquitetura escalável |
 | RNF06 | O sistema embarcado requer conexão com a internet, seja móvel ou Wi-Fi, para funcionar corretamente, utilizando o módulo GPS Neo-6Mv2 e o Sensor Acelerômetro e Giroscópio MPU-6050. | - |
-
-## Tarefas Relacionadas ao Projeto
-
-| Tarefa | Descrição | Indicadores Relacionados |
-| --- | --- | --- |
-| **Front-end** |
-| Criar interface de usuário em React | RF01, RF02, RF03, RNF01, RNF02, RNF04 |
-| Implementar recursos de notificação push | RF05 |
-| **Back-end** |
-| Desenvolver aplicação em Spring Boot | RF02, RF03, RF04, RF06, RNF02, RNF03, RNF04, RNF05 |
-| Configurar banco de dados PostgreSQL | RNF02, RNF03, RNF05 |
-| **Sistema Embarcado** |
-| Configurar ESP32, Sensor Acelerômetro e Giroscópio, e Módulo GPS | RNF06 |
-| Enviar dados de localização para o back-end | RF02, RNF02, RNF03 |
-| **Sistema Push** |
-| Implementar notificações push para dispositivos Android e iOS | RF05, RNF02, RNF03 |
