@@ -8,23 +8,23 @@ Este projeto visa solucionar esse problema, fornecendo um sistema completo compo
 
 ## Componentes do Sistema
 
-### Front-end
+### [Front-end](https://github.com/JardiNaHora/frontend)
 
 O front-end do sistema será implementado em React, uma biblioteca JavaScript amplamente reconhecida para a criação de interfaces de usuário responsivas e interativas. Ele será a interface principal para os usuários finais, permitindo que eles visualizem em tempo real a localização da "Jardineira", obtenham informações sobre o horário de chegada e tenham acesso a notificações relevantes.
 
-### Back-end
+### [Back-end](https://github.com/JardiNaHora/backend)
 
 O back-end do sistema será desenvolvido com o uso do Spring Boot, um framework Java robusto para a criação de aplicações web. Ele será responsável por receber os dados enviados pelo sistema embarcado no veículo, processar essas informações e disponibilizá-las para o front-end. Além disso, o back-end gerenciará o armazenamento das informações no banco de dados PostgreSQL.
 
-### Banco de Dados
+### [Banco de Dados](https://github.com/JardiNaHora/banco-de-dados)
 
 O banco de dados PostgreSQL será utilizado para armazenar as informações das viagens da "Jardineira". Ele garantirá que os dados sejam consistentes e seguros, permitindo que sejam acessados e consultados de maneira eficiente. As informações armazenadas incluirão registros de viagens, localizações, horários e status do veículo.
 
-### Sistema Embarcado
+### [Sistema Embarcado](https://github.com/JardiNaHora/sistema-embarcado)
 
 Para obter os dados de localização do veículo, será implementado um sistema embarcado que consiste em um ESP32, um sensor acelerômetro e giroscópio, e um módulo GPS. Esse sistema estará acoplado à "Jardineira" e enviará continuamente informações sobre sua posição e status para o back-end.
 
-### Sistema Push
+### [Sistema Push](https://github.com/JardiNaHora/sistema-push)
 
 O projeto também incluirá um sistema de notificações push para smartphones Android e iOS. Isso permitirá o envio de notificações aos usuários sobre o status e a localização da "Jardineira", mantendo-os informados e reduzindo a incerteza sobre a chegada do veículo.
 
