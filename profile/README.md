@@ -6,7 +6,7 @@ O Sistema de Monitoramento da Jardineira é um projeto desenvolvido para o Insti
 
 Este projeto visa solucionar esse problema, fornecendo um sistema completo composto por três partes principais: o front-end, o back-end e o banco de dados. Além disso, será implementado um sistema embarcado no veículo, composto por um ESP32, um sensor acelerômetro e giroscópio, e um módulo GPS, para coletar e enviar informações sobre a localização e status do veículo para o sistema.
 
-<details>
+<details open>
   <summary><h2>Componentes do Sistema</h2></summary>
 
   ### [Front-end](https://github.com/JardiNaHora/frontend)
@@ -31,7 +31,7 @@ Este projeto visa solucionar esse problema, fornecendo um sistema completo compo
 
 </details>
 
-<details>
+<details open>
   
   <summary><h2>Objetivos do Projeto</h2></summary>
 
