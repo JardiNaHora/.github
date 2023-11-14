@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-O Sistema de Monitoramento da Jardineira é um projeto desenvolvido para o Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), campus Maracanaú, com o objetivo de proporcionar um rastreamento em tempo real do veículo oficial "Jardineira". A "Jardineira" é utilizada para transportar alunos e funcionários entre o campus e a estação de metrô mais próxima, mas a falta de informações sobre sua localização e tempo de chegada tem causado atrasos e inconveniências para os usuários.
+O JardiNaHora é um projeto desenvolvido para o Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), campus Maracanaú, com o objetivo de proporcionar um rastreamento em tempo real do veículo oficial "Jardineira". A "Jardineira" é utilizada para transportar alunos e funcionários entre o campus e a estação de metrô mais próxima, mas a falta de informações sobre sua localização e tempo de chegada tem causado atrasos e inconveniências para os usuários.
 
 Este projeto visa solucionar esse problema, fornecendo um sistema completo composto por três partes principais: o front-end, o back-end e o banco de dados. Além disso, será implementado um sistema embarcado no veículo, composto por um ESP32, um sensor acelerômetro e giroscópio, e um módulo GPS, para coletar e enviar informações sobre a localização e status do veículo para o sistema.
 
