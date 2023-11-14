@@ -1,4 +1,4 @@
-# Sistema de Monitoramento da Jardineira - README
+# Sistema de Monitoramento da Jardineira - JardiNaHora
 
 ## Visão Geral
 
